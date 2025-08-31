@@ -9,7 +9,7 @@ description = "BJJ technique classifier API"
 authors = [{name = "BJJ Classifier Team"}]
 requires-python = ">=3.10.18"
 dependencies = [
-    "fastapi>=0.104.0",
+    "fastapi[all] (>=0.116.1,<0.117.0)",
     "pydantic>=2.5.0",
     "uvicorn[standard]>=0.24.0",
     "torch>=2.0.0",
