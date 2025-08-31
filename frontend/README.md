@@ -3,7 +3,6 @@
 A React TypeScript single-page application for uploading and classifying Brazilian Jiu-Jitsu technique videos.
 
 ## Features
-
 - **Drag & Drop Upload**: Intuitive video file upload with drag and drop support
 - **Real-time Classification**: Get instant technique classification with confidence scores
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
